@@ -1,0 +1,8 @@
+D:\SVB\kata-catalog\src\FizzBuzz\obj\Debug\FizzBuzz.csproj.AssemblyReference.cache
+D:\SVB\kata-catalog\src\FizzBuzz\obj\Debug\FizzBuzz.csproj.SuggestedBindingRedirects.cache
+D:\SVB\kata-catalog\src\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+D:\SVB\kata-catalog\src\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+D:\SVB\kata-catalog\src\FizzBuzz\bin\Debug\FizzBuzz.exe
+D:\SVB\kata-catalog\src\FizzBuzz\bin\Debug\FizzBuzz.pdb
+D:\SVB\kata-catalog\src\FizzBuzz\obj\Debug\FizzBuzz.exe
+D:\SVB\kata-catalog\src\FizzBuzz\obj\Debug\FizzBuzz.pdb
